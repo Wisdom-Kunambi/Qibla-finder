@@ -66,7 +66,7 @@ A modern, professional web application for finding the Qibla direction from anyw
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/qibla-finder-laravel.git
+   git clone https://github.com/YOUR_USERNAME/qibla-finder.git
    cd qibla-finder-laravel
    ```
 
